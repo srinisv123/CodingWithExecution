@@ -1,4 +1,3 @@
-package main;
 
 // Hello world..
 

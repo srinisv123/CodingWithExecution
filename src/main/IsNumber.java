@@ -1,7 +1,6 @@
-package main;
 
 /**
- * @author ssingan on 7/15/15.
+ * @author svcheena on 7/15/15.
  */
 public class IsNumber {
 
